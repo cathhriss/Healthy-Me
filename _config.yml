@@ -3,7 +3,7 @@ title: Healthy Me
 subtitle: My Personal Findings in Regards to a Healthy Living 
 email: cathhriss@mail.com
 description: Finding the Benefits of a Healthy Living Through a Powerful jekyll Website
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/Healthy-Me/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
